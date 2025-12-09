@@ -19,6 +19,16 @@
       <enclosure url="https://pub-095e0ccd5895444f891bd27749a44012.r2.dev/episode_0001.mp3" length="812103" type="audio/mpeg"/>
     </item>
     
+    
+    <item>
+      <title>Episode 2: GIR Growth & Monetization</title>
+      <guid isPermaLink="false">ccd60d7c-4547-4df8-965f-acb6efd97611</guid>
+      <pubDate>Tue, 09 Dec 2025 20:41:51 +0000</pubDate>
+      <itunes:duration></itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <enclosure url="https://pub-095e0ccd5895444f891bd27749a44012.r2.dev/episode_0002.mp3" length="1688510" type="audio/mpeg"/>
+    </item>
+    
     <!-- EPISODES GO HERE -->
   </channel>
 </rss>

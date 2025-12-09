@@ -8,7 +8,17 @@
     <language>en</language>
     <itunes:author>Christian Loose</itunes:author>
     <itunes:explicit>false</itunes:explicit>
-
+    <itunes:image href="https://balanxerohq.github.io/assets/spools1400x1400.jpg" />
+    
+    <item>
+      <title>Episode 1: Die 40 Stunden Woche</title>
+      <guid isPermaLink="false">ac92cb7c-b54e-4a2a-9df3-027ecc8d82f1</guid>
+      <pubDate>Tue, 09 Dec 2025 19:33:20 +0000</pubDate>
+      <itunes:duration></itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <enclosure url="https://pub-095e0ccd5895444f891bd27749a44012.r2.dev/episode_0001.mp3" length="812103" type="audio/mpeg"/>
+    </item>
+    
     <!-- EPISODES GO HERE -->
   </channel>
 </rss>

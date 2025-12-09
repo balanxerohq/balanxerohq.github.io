@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0"
+     xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd">
+  <channel>
+    <title>Christian's Podcast</title>
+    <link>https://example.com</link>
+    <description>Short 5–8 min audio overviews generated from documents.</description>
+    <language>en</language>
+    <itunes:author>Christian Loose</itunes:author>
+    <itunes:explicit>false</itunes:explicit>
+
+    <!-- EPISODES GO HERE -->
+  </channel>
+</rss>
